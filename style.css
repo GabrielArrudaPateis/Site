@@ -19,6 +19,7 @@ h3{
     width: 20%;
 }
 ul {
-    display: inline-block;
+    list-style-position: inside; 
     text-align: center;
+    padding: 0; 
 }
