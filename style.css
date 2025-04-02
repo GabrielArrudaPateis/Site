@@ -5,27 +5,14 @@ body{
 h1{
     font-size: xx-large;
     font-style: italic;
-    color: #1410dfe0;
+    color: #dfd110e0;
 }
 h2{
+    font-size: medium;
     font-style: italic;
-    color: #1410dfe0;
+    color: #dfd110e0;
 }
 h3{
-    font-size: large;
-    font-style: italic;
-    color: #1410dfe0;
-}
-h4{
-    font-style: italic;
-    color: #1410dfe0;
-}
-h5{
-    font-style: italic;
-    color: #1410dfe0;
-}
-h6{
-    font-style: italic;
     color: #1410dfe0;
 }
 .bolsonaro{
