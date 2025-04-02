@@ -19,8 +19,9 @@ h3{
     width: 20%;
 }
 ul {
+    list-style-position: inside;
     text-align: center;
 }
 .Jair{
-    width: 5%;
+    width: 14%;
 }
