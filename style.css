@@ -18,3 +18,7 @@ h3{
 .bolsonaro{
     width: 20%;
 }
+ul {
+    display: inline-block;
+    text-align: left; /* Opcional, mantém os itens alinhados dentro do bloco */
+}
