@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(179, 231, 164);
+    text-align: center;
+}
+h1{
+    font-size: xx-large;
+    font-style: italic;
+    color: #1410dfe0;
+}
+h2{
+    font-style: italic;
+    color: #1410dfe0;
+}
+h3{
+    font-size: large;
+    font-style: italic;
+    color: #1410dfe0;
+}
+h4{
+    font-style: italic;
+    color: #1410dfe0;
+}
+h5{
+    font-style: italic;
+    color: #1410dfe0;
+}
+h6{
+    font-style: italic;
+    color: #1410dfe0;
+}
+.bolsonaro{
+    width: 20%;
+}
